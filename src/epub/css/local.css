@@ -5,3 +5,20 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+blockquote.envelope{
+	text-align: center;
+}
+
+p span.signature{
+	font-variant: small-caps;
+}
+
+footer{
+	text-align: right;
+	margin-top: 1em;
+}
+
+.signature{
+	font-variant: small-caps;
+}
