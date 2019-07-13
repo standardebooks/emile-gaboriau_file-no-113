@@ -6,12 +6,24 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+blockquote.card{
+	text-align: center;
+}
+
+blockquote.card p:last-child{
+	text-align: right;
+}
+
 blockquote.envelope{
 	text-align: center;
 }
 
-p span.signature{
-	font-variant: small-caps;
+blockquote.envelope p:first-child{
+	text-indent: 2em;
+}
+
+blockquote.envelope p:second-child{
+	text-align: normal;
 }
 
 footer{
