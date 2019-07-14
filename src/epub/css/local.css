@@ -6,7 +6,12 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-blockquote.card{
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+blockquote.card,
+blockquote.envelope{
 	text-align: center;
 }
 
@@ -14,16 +19,17 @@ blockquote.card p:last-child{
 	text-align: right;
 }
 
-blockquote.envelope{
-	text-align: center;
+blockquote.envelope p:nth-child(2){
+	text-indent: 4.5em;
 }
 
-blockquote.envelope p:first-child{
-	text-indent: 2em;
+blockquote.envelope p:nth-child(3){
+    margin-top: .5em;
+	text-indent: -6em;
 }
 
-blockquote.envelope p:second-child{
-	text-align: normal;
+blockquote.envelope p:last-child{
+	text-indent: 6em;
 }
 
 footer{
@@ -33,4 +39,10 @@ footer{
 
 .signature{
 	font-variant: small-caps;
+}
+
+#chapter-25 p:last-child{
+	font-style: italic;
+	margin: 1em;
+	text-align: center;
 }
