@@ -57,8 +57,8 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>A bank safe is robbed. Only two men have both the key and the combination to the safe. The police naturally look to the employee rather than the owner of the bank. But Monsieur Lecoq, as always, sees what everyone else misses. Was it one of the two? Or was it a seemingly impossible third-party? Only Lecoq will be able to determine it. But why does he not want his involvement in the case known?</p>
-			<p>Like Gaboriau’s two novels before it, <i epub:type="se:name.publication.book">File No. 113</i> is a mystery with a Dickensian tragedy behind it. Men and women of good character, of bad character, and good character who make bad choices abound, and remind us that the best mysteries have great personalities inhabiting them.</p>
+			&lt;p&gt;A bank safe is robbed. Only two men have both the key and the combination to the safe. The police naturally look to the employee rather than the owner of the bank. But Monsieur Lecoq, as always, sees what everyone else misses. Was it one of the two? Or was it a seemingly impossible third-party? Only Lecoq will be able to determine it. But why does he not want his involvement in the case known?&lt;/p&gt;
+			&lt;p&gt;Like Gaboriau’s two novels before it, &lt;i&gt;File No. 113&lt;/i&gt; is a mystery with a Dickensian tragedy behind it. Men and women of good character, of bad character, and good character who make bad choices abound, and remind us that the best mysteries have great personalities inhabiting them.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3803</dc:source>
