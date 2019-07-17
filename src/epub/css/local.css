@@ -20,11 +20,11 @@ blockquote.card p:last-child{
 }
 
 blockquote.envelope p:nth-child(2){
-	text-indent: 4.5em;
+	text-indent: 5em;
 }
 
 blockquote.envelope p:nth-child(3){
-	margin-top: .5em;
+	margin-top: 1em;
 	text-indent: -6em;
 }
 
@@ -45,4 +45,5 @@ footer{
 	font-style: italic;
 	margin: 1em;
 	text-align: center;
+	text-indent: 0;
 }
