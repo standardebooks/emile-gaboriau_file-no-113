@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/emile-gaboriau/file-no-113</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-07-17T23:19:53Z</dc:date>
+		<meta property="dcterms:modified">2019-07-17T23:19:53Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -57,13 +57,13 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A bank safe is robbed. Only two men have both the key and the combination to the safe. The police naturally look to the employee rather than the owner of the bank. But Monsieur Lecoq, as always, sees what everyone else misses. Was it one of the two? Or was it a seemingly impossible third-party? Only Lecoq will be able to determine it. But why does he not want his involvement in the case known?&lt;/p&gt;
+			&lt;p&gt;A bank safe is robbed. Only two men have both the key and the combination to the safe. The police naturally look to the employee rather than the owner of the bank. But Monsieur Lecoq, as always, sees what everyone else misses. Was it one of the two? Or was it a seemingly-impossible third party? Only Lecoq will be able to determine it. But why doesn’t he want his involvement in the case known?&lt;/p&gt;
 			&lt;p&gt;Like Gaboriau’s two novels before it, &lt;i&gt;File No. 113&lt;/i&gt; is a mystery with a Dickensian tragedy behind it. Men and women of good character, of bad character, and good character who make bad choices abound, and remind us that the best mysteries have great personalities inhabiting them.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3803</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">146396</meta>
+		<meta property="se:reading-ease.flesch">72.66</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_file-no-113</meta>
 		<dc:creator id="author">Emile Gaboriau</dc:creator>
 		<meta property="file-as" refines="#author">Gaboriau, Emile</meta>
@@ -78,7 +78,7 @@
 		<dc:contributor id="transcriber-1">Dagny</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Dagny</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">John Bickers\</dc:contributor>
+		<dc:contributor id="transcriber-2">John Bickers</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Bickers, John</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
@@ -93,6 +93,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
