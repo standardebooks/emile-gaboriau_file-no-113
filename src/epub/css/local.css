@@ -10,25 +10,25 @@ span[epub|type~="subtitle"]{
 	font-variant: small-caps;
 }
 
-blockquote.card,
-blockquote.envelope{
+#chapter-23 blockquote:first-of-type,
+#chapter-6 blockquote:first-of-type{
 	text-align: center;
 }
 
-blockquote.card p:last-child{
+#chapter-23 blockquote:first-of-type p:last-child{
 	text-align: right;
 }
 
-blockquote.envelope p:nth-child(2){
+#chapter-6 blockquote:first-of-type p:nth-child(2){
 	text-indent: 5em;
 }
 
-blockquote.envelope p:nth-child(3){
+#chapter-6 blockquote:first-of-type p:nth-child(3){
 	margin-top: 1em;
 	text-indent: -6em;
 }
 
-blockquote.envelope p:last-child{
+#chapter-6 blockquote:first-of-type p:last-child{
 	text-indent: 6em;
 }
 
