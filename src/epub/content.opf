@@ -56,7 +56,8 @@
 		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<meta property="se:collection">Monsieur Lecoq</meta>
+		<meta property="belongs-to-collection" id="collection-1">Monsieur Lecoq</meta>
+		<meta property="collection-type" refines="collection-1">series</meta>
 		<dc:description id="description">A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A bank safe is robbed. Only two men have both the key and the combination to the safe. The police naturally look to the employee rather than the owner of the bank. But &lt;a href="https://standardebooks.org/collections/monsieur-lecoq"&gt;Monsieur Lecoq&lt;/a&gt;, as always, sees what everyone else misses. Was it one of the two? Or was it a seemingly-impossible third party? Only Lecoq will be able to determine it. But why doesn’t he want his involvement in the case known?&lt;/p&gt;
